@@ -1,2 +1,2 @@
-# floppyimgreader
-Read and edit floppy disk images with a small command line application.
+# fatimageeditor
+Read and edit FAT disk images with a small command line application.
